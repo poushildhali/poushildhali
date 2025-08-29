@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Poushil 👋</h1>  
 
 <p align="center">
-💻 Full Stack Java Developer | 🌐 Web3 & AI Explorer | 📱 React Native Learner | ☕ Believer in 90s-style simplicity  
+💻 Full Stack Java Developer | 🌐 Web3 & AI Explorer | 📱 React Native Learner | ☕ Believer in simplicity  
 </p>  
 
 ---
@@ -76,21 +76,21 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poushildhali&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poushildhali&layout=compact&theme=tokyonight" height="160"/>
 </p>  
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=poushildhali&theme=dracula&margin-w=15&margin-h=15" />
 </p>  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- Email: **yourmail@example.com**  
+- Portfolio: [yourportfolio.com](https://myportfolio-neon-seven.vercel.app/)  
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/poushil-dhali-8a2472239/)  
+- Email: **poushild2067@gmail.com**  
 
 ---
 
