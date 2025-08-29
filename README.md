@@ -88,8 +88,8 @@
 
 ## 🌐 Connect with Me  
 
-- Portfolio: [yourportfolio.com](https://myportfolio-neon-seven.vercel.app/)  
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/poushil-dhali-8a2472239/)  
+- Portfolio: [portfolio.com](https://myportfolio-neon-seven.vercel.app/)  
+- LinkedIn: [linkedin.com/in/poushildhali](https://www.linkedin.com/in/poushil-dhali-8a2472239/)  
 - Email: **poushild2067@gmail.com**  
 
 ---
