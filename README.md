@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎓 CS Graduate & Government Scholarship Holder  
 - 💻 Skilled in **Java, React, Node.js, SQL, MongoDB**  
-- 🌱 Currently learning **React Native (Expo)** and **advanced Web3**  
+- 🌱 Currently learning **React Native (Expo)** and **intermidiate Web3**  
 - 🛠️ Intermediate Web3 knowledge: **Solidity & Ethers.js**  
 - 🔬 Research interest: **rPPG-based AI models to detect deepfakes**  
 - ✨ Fun fact: *I believe in meaningful conversations over tea more than endless scrolling*  
